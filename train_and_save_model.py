@@ -36,7 +36,7 @@ def fetch_historical_weather_data(api_key, location, date):
 
 
 # Fetch historical weather data
-API_KEY = '65652209b11c49928c0132348243108'
+API_KEY = st.secrets["api_key"]
 LOCATION = 'India'
 start_date = datetime(2023, 9, 1)
 end_date = datetime.now()
