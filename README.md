@@ -47,6 +47,9 @@ Files in This Repository
 Deployment
 This app is deployed on the Streamlit Community Cloud. You can access it [Link]()
 
+![Heatwave Prediction App Screenshot1](images/ss1.jpeg "Predicted temperature")
+![Heatwave Prediction App Screenshot2](images/ss2.jpeg "Graph")
+
 Usage
 Once the app is running, it will:
 
