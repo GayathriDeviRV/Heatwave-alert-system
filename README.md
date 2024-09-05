@@ -45,7 +45,7 @@ Files in This Repository
 - scaler.pkl: The MinMaxScaler used to normalize the data.
 
 Deployment
-This app is deployed on the Streamlit Community Cloud. You can access it [Link]()
+This app is deployed on the Streamlit Community Cloud. You can access it [Link](https://heatwavealertsystem.streamlit.app/)
 
 ![Heatwave Prediction App Screenshot1](images/ss1.jpeg "Predicted temperature")
 ![Heatwave Prediction App Screenshot2](images/ss2.jpeg "Graph")
